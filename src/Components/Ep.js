@@ -40,7 +40,7 @@ class Ep extends Component {
               backgroundImage: menuOpen ? `url(${joelInvert})` : `url(${joel})`
             }}
           >
-            <div className="glitch-wrapper">
+            <div onClick={this.toggleMenu} className="glitch-wrapper">
               <div className="outer">
                 <div className="inner rotate">RES</div>
               </div>
