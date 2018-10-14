@@ -46,7 +46,7 @@ class Ep extends Component {
               </div>
               <div className="border" />
               <div className="outer">
-                <div className="inner rotate">UME</div>
+                <div className="inner rotate">UMÉ</div>
               </div>
             </div>
             <div

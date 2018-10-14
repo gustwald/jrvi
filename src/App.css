@@ -729,31 +729,34 @@ h1 {
   height: 80px;
   width: 300px; }
 
-@media only screen and (max-width: 750px) {
-  .ep-wrapper {
-    margin: 0; }
-  .glitch,
-  .glitch-inner,
-  .glitch-inner-2 {
-    width: 100%;
-    height: 100vh;
-    /* background-image: url(https://pp.vk.me/c604321/v604321486/35955/6GPVYYLmKDE.jpg); */
-    background-size: cover;
-    background-position: center; }
-  .inner {
-    font-size: 150px;
-    color: white;
-    font-weight: bolder;
-    position: absolute;
-    top: 50%;
-    left: 50%; }
-  .border {
-    margin: 0px 30px; } }
+.ep-wrapper {
+  margin: 0; }
 
-@media only screen and (max-width: 450px) {
-  .inner {
-    font-size: 120px; }
-  .ep-wrapper {
-    margin: 0; }
-  .border {
-    margin: 0 20px; } }
+.glitch,
+.glitch-inner,
+.glitch-inner-2 {
+  width: 100%;
+  height: 100vh;
+  /* background-image: url(https://pp.vk.me/c604321/v604321486/35955/6GPVYYLmKDE.jpg); */
+  background-size: cover;
+  background-position: center; }
+
+.inner {
+  font-size: 150px;
+  color: white;
+  font-weight: bolder;
+  position: absolute;
+  top: 50%;
+  left: 50%; }
+
+.border {
+  margin: 0px 30px; }
+
+.inner {
+  font-size: 120px; }
+
+.ep-wrapper {
+  margin: 0; }
+
+.border {
+  margin: 0 20px; }

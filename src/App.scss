@@ -883,7 +883,7 @@ h1 {
 // }
 // }
 
-@media only screen and (max-width: 750px) {
+// @media only screen and (max-width: 750px) {
   .ep-wrapper {
     margin: 0;
   }
@@ -907,8 +907,8 @@ h1 {
 .border {
   margin: 0px 30px;
 }
-}
-@media only screen and (max-width: 450px) {
+// }
+// @media only screen and (max-width: 450px) {
 .inner {
   font-size: 120px;
   
@@ -920,4 +920,4 @@ h1 {
 .border {
   margin: 0 20px;
 }
-}
+// }
